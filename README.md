@@ -78,5 +78,5 @@
 
 ## LeetCode
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/CqObMsDiUQ?theme=dark&font=Baloo"/>
+  <img src="https://leetcard.jacoblin.cool/CqObMsDiUQ?theme=dark&font=Baloo&ext=heatmap" />
 </p>
