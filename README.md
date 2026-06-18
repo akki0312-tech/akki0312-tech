@@ -1,5 +1,7 @@
 <p align="center">
-<img src="https://readmetypingsvg.herokuapp.comfont=Audiowide&size=60&pause=1000&color=FF0000&center=true&vCenter=true&width=1200&height=120&lines=HEY,+I'M+AKKSHAY!"></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Audiowide&size=60&pause=1000&color=FF0000&center=true&vCenter=true&width=1200&height=120&lines=HEY,+I'M+AKKSHAY!" />
+</p>
 <h3 align="center">IT Undergrad @ SSN College of Engineering</h3>
 
 ##  About Me
