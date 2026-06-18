@@ -1,13 +1,12 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=60&pause=1000&color=FF0000&center=true&vCenter=true&width=1200&height=120&lines=HEY,+I'M+AKKSHAY!">
-</p>
-<h3 align="center">Information Technology Student @ SSN College of Engineering</h3>
+<p align="center"><img src="https://readme-typingsvg.herokuapp.comfont=Audiowide&size=60&pause=1000&color=FF0000&center=true&vCenter=true&width=1200&height=120&lines=HEY,+I'M+AKKSHAY!"></p>
+<h3 align="center">IT Undergrad @ SSN College of Engineering</h3>
 
 ##  About Me
 - 💻 Software Developer Intern @ Datamoo AI
 - 🌱 Learning Python, Django, Java
-- 🏆 Hackathon Winner
-  
+- 🏆 Placed 3rd at Google TechSprint
+- 🏆 Placed 2nd at Nourishnovate, organized by REC Chennai
+    
 ## 🔗 Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/rv-akkshaya-kumar/">
